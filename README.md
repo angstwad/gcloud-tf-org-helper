@@ -36,3 +36,6 @@ optional arguments:
   -o OUTFILE, --outfile OUTFILE
                         File to write; default: organization.tf
 ```
+
+## Disclaimer
+This repository and its contents are not an official Google Product.
